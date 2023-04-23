@@ -39,4 +39,4 @@ Issues:
 
 1. Cortana is still here.
 
-Although Edge is removed, The icon on the desktop  pin are still there. Also, there are some remnants in the Settings. But the app in itself is deleted.
+2. Although Edge is removed, The icon on the desktop and the taskbar pin are still there. Simply remove them by deleting the shortcut and unpinning the icon from the taskbar.
